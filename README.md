@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Pandey</h1>
-<h3 align="center">I'm a Computer Science and Engineering student with a focus on Java development. I love creating impactful solutions and contributing to innovative projects. B</h3>
+<h3 align="center">I'm a Computer Science and Engineering student with a focus on Java development. I love creating impactful solutions and contributing to innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypandey2908&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypandey2908" /> </p>
 
