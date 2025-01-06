@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypandey2908&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypandey2908" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Full Stack Java**
 
-- 👨‍💻 All of my projects are available at [https://ajaypandey2908.github.io/PortfolioWebsite/](https://ajaypandey2908.github.io/PortfolioWebsite/)
+- 👨‍💻 All of my projects are available at(https://ajaypandey2908.github.io/PortfolioWebsite/)
 
 - 📫 How to reach me **http://www.linkedin.com/in/ajaypandey2002**
-
-- 📄 Know about my experiences [https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=168&ct=1735711337&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1](https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=168&ct=1735711337&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaypandey2908&show_icons=true&locale=en&layout=compact" alt="ajaypandey2908" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaypandey2908&show_icons=true&locale=en" alt="ajaypandey2908" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypandey2908&" alt="ajaypandey2908" /></p>
