@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypandey2908&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypandey2908" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java**
+- 🌱 I’m currently learning **Full Stack Java Developer**
 
 - 👨‍💻 All of my projects are available at(https://ajaypandey2908.github.io/PortfolioWebsite/)
 
@@ -23,4 +23,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypandey2908&" alt="ajaypandey2908" /></p>
