@@ -1,3 +1,4 @@
+![logo](https://github.com/ajaypandey2908/ajaypandey2908/blob/main/Ajay%20Pandey.png)
 <h1 align="center">Hi 👋, I'm Ajay Pandey</h1>
 <h3 align="center">I'm a Computer Science and Engineering student with a focus on Java development. I love creating impactful solutions and contributing to innovative projects.</h3>
 
